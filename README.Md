@@ -151,6 +151,9 @@ onClick={() => dispatch(decrement())}
 2. npm install express
 3. npm install mongoose
 
+4. npm i nodemon
+5. npm i dotenv
+
 
 
 
