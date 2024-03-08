@@ -144,3 +144,13 @@ Ab isme jo functions hai unko call krna hai toh using useDispatch() Hook
 
 onClick={() => dispatch(increment())}
 onClick={() => dispatch(decrement())}
+
+# Backend Start
+
+1. npm init -y
+2. npm install express
+3. npm install mongoose
+
+
+
+
