@@ -132,6 +132,12 @@ import { Provider } from "react-redux";
 
 // 3rd passed store in Provider component as a props
 
+/*  
+// < Provider  store={store}>
+    < App/ >
+< /Provider >
+*/
+
 # important thing
 
 # How to access state in our component
