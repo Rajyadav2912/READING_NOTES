@@ -124,9 +124,10 @@ import { Provider } from "react-redux";
 
 // 1st export store file
 // 2nd wrapped
-<Provider>
+/* <Provider>
 <App/>
 </Provider>
+*/
 
 // 3rd passed store in Provider component as a props
 
