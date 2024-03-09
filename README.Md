@@ -122,15 +122,15 @@ counter: CounterSlice,
 
 import { Provider } from "react-redux";
 
-// 1st export store file
-// 2nd wrapped
+1. export store file
+2. wrapped
 /*  
 // < Provider >
     < App/ >
 < /Provider >
 */
 
-// 3rd passed store in Provider component as a props
+3. passed store in Provider component as a props
 
 /*  
 // < Provider  store={store}>
