@@ -159,11 +159,11 @@ onClick={() => dispatch(decrement())}
 2. npm install express
 3. npm install mongoose
 
-4. npm i nodemon
-5. npm i dotenv
+4. npm i nodemon : 
+  Note: nodemon is basically used for run our server with mongoDB Database
 
-a. Note: nodemon is basically used for run our server with mongoDB Database
-b. Note : .env is used for initialize our PORT no. and DATABASE_URL 
+5. npm i dotenv
+  Note : .env is used for initialize our PORT no. and DATABASE_URL 
 
 
 
