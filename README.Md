@@ -162,6 +162,8 @@ onClick={() => dispatch(decrement())}
 4. npm i nodemon
 5. npm i dotenv
 
+Note 1: nodemon is basically used for run our server with mongoDB Database
+Note 2: .env is used for initialize our PORT no. and DATABASE_URL 
 
 
 
