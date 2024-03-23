@@ -159,25 +159,35 @@ onClick={() => dispatch(decrement())}
 2. npm install express
 3. npm install mongoose
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 4. npm i nodemon : 
-  Note: nodemon is basically used for run our server with mongoDB Database
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note: nodemon is basically used for run our server with mongoDB Database
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 5. npm i dotenv :
-  Note : .env is used for initialize our PORT no. and DATABASE_URL 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note : .env is used for initialize our PORT no. and DATABASE_URL 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 6. npm install jsonwebtoken :
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Note : The command 'npm install jsonwebtoken' is used to install the JSON Web Token (JWT) library for Node.js projects via the Node Package Manager (npm). JSON Web Tokens are a compact, URL-safe means of representing claims to be transferred between two parties. This library, jsonwebtoken, allows you to generate, sign, and verify JWTs in your Node.js applications.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Note : The command 'npm install jsonwebtoken' is used to install the JSON Web Token (JWT) library for Node.js projects via the Node Package Manager (npm). JSON Web Tokens are a compact, URL-safe means of representing claims to be transferred between two parties. This library, jsonwebtoken, allows you to generate, sign, and verify JWTs in your Node.js applications.
 
 7. npm i cors  :
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Note : The command 'npm i cors' is used to install the CORS (Cross-Origin Resource Sharing) middleware for Node.js projects via npm. CORS is a security feature implemented by web browsers to restrict web page resources from being requested from another domain outside the domain from which the resource originated.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Note : The command 'npm i cors' is used to install the CORS (Cross-Origin Resource Sharing) middleware for Node.js projects via npm. CORS is a security feature implemented by web browsers to restrict web page resources from being requested from another domain outside the domain from which the resource originated.
 
 8. npm i multer :
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Note : The command 'npm i multer' is used to install the Multer middleware for Node.js projects via npm. Multer is a Node.js middleware used for handling multipart/form-data, which is primarily used for uploading files. It is particularly useful when you need to handle file uploads in web applications built with Node.js and Express.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Note : The command 'npm i multer' is used to install the Multer middleware for Node.js projects via npm. Multer is a Node.js middleware used for handling multipart/form-data, which is primarily used for uploading files. It is particularly useful when you need to handle file uploads in web applications built with Node.js and Express.
 
 
 
