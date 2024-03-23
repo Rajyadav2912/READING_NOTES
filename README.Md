@@ -165,5 +165,14 @@ onClick={() => dispatch(decrement())}
 5. npm i dotenv :
   Note : .env is used for initialize our PORT no. and DATABASE_URL 
 
+6. npm install jsonwebtoken :
+  Note :
+
+7. npm i cors  :
+  Note :
+
+8. npm i multer :
+  Note :
+
 
 
