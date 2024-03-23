@@ -180,12 +180,16 @@ Note : The command 'npm install jsonwebtoken' is used to install the JSON Web To
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 7. npm i cors  :
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  Note : The command 'npm i cors' is used to install the CORS (Cross-Origin Resource Sharing) middleware for Node.js projects via npm. CORS is a security feature implemented by web browsers to restrict web page resources from being requested from another domain outside the domain from which the resource originated.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Note : The command 'npm i cors' is used to install the CORS (Cross-Origin Resource Sharing) middleware for Node.js projects via npm. CORS is a security feature implemented by web browsers to restrict web page resources from being requested from another domain outside the domain from which the resource originated.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 8. npm i multer :
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  Note : The command 'npm i multer' is used to install the Multer middleware for Node.js projects via npm. Multer is a Node.js middleware used for handling multipart/form-data, which is primarily used for uploading files. It is particularly useful when you need to handle file uploads in web applications built with Node.js and Express.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Note : The command 'npm i multer' is used to install the Multer middleware for Node.js projects via npm. Multer is a Node.js middleware used for handling multipart/form-data, which is primarily used for uploading files. It is particularly useful when you need to handle file uploads in web applications built with Node.js and Express.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
